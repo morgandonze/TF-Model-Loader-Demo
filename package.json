@@ -12,6 +12,7 @@
   "devDependencies": {
     "@tensorflow/tfjs": "^1.1.2",
     "nsfwjs": "^2.0.0",
+    "tf-model-loader": "^0.0.1",
     "webpack": "^4.33.0",
     "webpack-cli": "^3.3.2"
   }
