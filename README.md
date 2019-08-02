@@ -21,4 +21,6 @@ This will generate `dist/main.js`. This file is referenced in `index.html`. Open
 
 ![output](output.png)
 
-You can see that the image (defined in `index.js`) is classified as probably a drawing.
+You can see that the image (defined in `index.js`) is classified as probably a drawing. It's not a drawing, but it probably classified that way because it's black-and-white.
+
+![image we classified](https://i.imgur.com/Kwxetau.jpg)
